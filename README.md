@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a seasoned web developer with over 8.5 years of experience in building and enhancing web applications. My expertise lies in PHP, WordPress development, and Gutenberg block creation, where I have successfully developed and customized themes and plugins to meet diverse client needs. I am also proficient in JavaScript, React, Node.js, HTML, and CSS, allowing me to create dynamic and responsive web solutions. My passion for technology drives me to stay updated with the latest trends, ensuring that my projects are both innovative and efficient.<br><br>
+Full-Stack Developer with 10+ years of experience building scalable web applications, custom WordPress/WooCommerce solutions, and modern MERN stack applications. Skilled in PHP, JavaScript, TypeScript, Node.js, Express.js, React, Next.js, MySQL, MongoDB, AWS, and CI/CD automation. I enjoy designing clean architectures, optimizing performance, building REST APIs, and delivering high-quality solutions from concept to production. Passionate about problem-solving, continuous learning, and creating products that provide real business value.<br><br>
 
 
 ## 🌐 Socials:
